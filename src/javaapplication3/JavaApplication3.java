@@ -38,7 +38,7 @@ public class JavaApplication3 {
             System.out.print("Son iguals");
         else
             
-        System.out.print("Son diferents");
+        System.out.print("Son diferents y otro commit");
         
         }
 
